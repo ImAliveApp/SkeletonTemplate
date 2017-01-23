@@ -5,7 +5,6 @@ var AliveClass = (function () {
     AliveClass.prototype.onTick = function (time) {
     };
     AliveClass.prototype.onBackgroundTick = function (time) {
-        this.onTick(time);
     };
     AliveClass.prototype.onStart = function (handler, disabledPermissions) {
     };

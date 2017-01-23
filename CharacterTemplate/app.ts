@@ -13,7 +13,7 @@ class AliveClass implements IAliveAgent {
     }
 
     onBackgroundTick(time: number) {
-        this.onTick(time);
+        
     }
 
     onStart(handler: IManagersHandler, disabledPermissions: string[]): void {
