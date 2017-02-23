@@ -1,4 +1,4 @@
-## Action Response Character:
+## Skeleton Template:
 
 ### Main concept:
 This sample is used as the **base** template for all of the characters, it is a skeleton template with no implementation at all,
