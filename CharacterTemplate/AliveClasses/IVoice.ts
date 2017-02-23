@@ -8,4 +8,5 @@
     getName(): string;
     isNetworkConnectionRequired(): boolean;
     getFeatures(): string[];
+
 }
