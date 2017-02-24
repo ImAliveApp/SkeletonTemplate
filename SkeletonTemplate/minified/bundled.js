@@ -8,7 +8,7 @@ var AliveClass = (function () {
     };
     AliveClass.prototype.onStart = function (handler, disabledPermissions) {
     };
-    AliveClass.prototype.onActionReceived = function (actionName, jsonedData) {
+    AliveClass.prototype.onPhoneEventOccurred = function (eventName, jsonedData) {
     };
     AliveClass.prototype.onMove = function (oldX, oldY, newX, newY) {
     };
@@ -185,6 +185,7 @@ var AgentConstants = (function () {
 //# sourceMappingURL=IAliveUserActivity.js.map
 //# sourceMappingURL=IAliveWeather.js.map
 //# sourceMappingURL=ICurrentTime.js.map
+//# sourceMappingURL=IMenuBuilder.js.map
 //# sourceMappingURL=ITime.js.map
 //# sourceMappingURL=IVoice.js.map
 var ResourceManagerHelper = (function () {

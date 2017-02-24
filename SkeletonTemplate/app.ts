@@ -20,7 +20,7 @@ class AliveClass implements IAliveAgent {
 
     }
 
-    onActionReceived(actionName: string, jsonedData: string): void {
+    onPhoneEventOccurred(eventName: string, jsonedData: string): void {
 
     }
 
