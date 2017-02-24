@@ -5,11 +5,10 @@ var AliveClass = (function () {
     AliveClass.prototype.onTick = function (time) {
     };
     AliveClass.prototype.onBackgroundTick = function (time) {
-        this.onTick(time);
     };
     AliveClass.prototype.onStart = function (handler, disabledPermissions) {
     };
-    AliveClass.prototype.onActionReceived = function (categoryName, jsonedData) {
+    AliveClass.prototype.onActionReceived = function (actionName, jsonedData) {
     };
     AliveClass.prototype.onMove = function (oldX, oldY, newX, newY) {
     };
