@@ -32,7 +32,8 @@ class AliveClass implements IAliveAgent {
      * @param disabledPermissions A list of permissions that the user disabled.
      */
     onStart(handler: IManagersHandler, disabledPermissions: string[]): void {
-
+        //Uncomment this if you need the ResourceManagerHelper.
+        //this.resourceManagerHelper = new ResourceManagerHelper(handler.getResourceManager());
     }
 
    /**

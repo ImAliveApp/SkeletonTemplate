@@ -22,6 +22,8 @@ var AliveClass = (function () {
      * @param disabledPermissions A list of permissions that the user disabled.
      */
     AliveClass.prototype.onStart = function (handler, disabledPermissions) {
+        //Uncomment this if you need the ResourceManagerHelper.
+        //this.resourceManagerHelper = new ResourceManagerHelper(handler.getResourceManager());
     };
     /**
      * This method gets called whenever a phone event (that you registered to) occur on the phone.
