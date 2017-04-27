@@ -1,6 +1,6 @@
 C:\Users\Hay Zohar\Documents\GitHub\SkeletonTemplate\SkeletonTemplate\bin\SkeletonTemplate.dll.config
 C:\Users\Hay Zohar\Documents\GitHub\SkeletonTemplate\SkeletonTemplate\bin\SkeletonTemplate.dll
 C:\Users\Hay Zohar\Documents\GitHub\SkeletonTemplate\SkeletonTemplate\bin\SkeletonTemplate.pdb
+C:\Users\Hay Zohar\Documents\GitHub\SkeletonTemplate\SkeletonTemplate\obj\Debug\SkeletonTemplate.csprojResolveAssemblyReference.cache
 C:\Users\Hay Zohar\Documents\GitHub\SkeletonTemplate\SkeletonTemplate\obj\Debug\SkeletonTemplate.dll
 C:\Users\Hay Zohar\Documents\GitHub\SkeletonTemplate\SkeletonTemplate\obj\Debug\SkeletonTemplate.pdb
-C:\Users\Hay Zohar\Documents\GitHub\SkeletonTemplate\SkeletonTemplate\obj\Debug\SkeletonTemplate.csprojResolveAssemblyReference.cache
